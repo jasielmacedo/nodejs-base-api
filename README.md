@@ -8,6 +8,15 @@ Dependencies
 	NodeJs 8.x or Later
 	MongoDB
 
+Dependencies
+------------
+
+	Mongo Connection
+	User C.R.U.D
+	JWT Integration
+	ACL Ready
+	Angular,React and Vue ready
+	Compatible with NGX Admin
 
 Installation
 ------------
