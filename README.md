@@ -11,7 +11,7 @@ Dependencies
 Key Features
 ------------
 
-	1. Mongo Connection
+	1. MongoDB Connection with Mongoose
 	2. Login / Logout
 	3. User (Create/Read/Update/Delete) ready
 	4. JWT Integration
