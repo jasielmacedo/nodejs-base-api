@@ -23,6 +23,7 @@ Installation
 ------------
 
 1.  Clone this repository
-2.  Run npm install
-3.  Run npm test - To test if everything is ok. Should return "passed".
+2.  Run ```npm install```
+3.  Run ```npm test``` - To test if everything is ok. Should return "passed".
+4.  Run ```npm start```
 4.  Open documentation/index.html for more information.
