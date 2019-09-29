@@ -166,8 +166,8 @@ module.exports = function(router, validateRoutes, validateAuth,validateContentTy
     
     /**
      * 
-     * @api {get} /user/list List All User
-     * @apiName ListAllUser
+     * @api {get} /user/list List All Users
+     * @apiName ListAllUsers
      * @apiGroup User
      * @apiVersion  1.0.0
      * 
