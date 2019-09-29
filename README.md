@@ -5,8 +5,8 @@ Nodejs + Mongodb API. You can use this base API to start your own API.
 Dependencies
 ------------
 
-NodeJs 8.x or Later
-MongoDB started
+	NodeJs 8.x or Later
+	MongoDB
 
 
 Installation
