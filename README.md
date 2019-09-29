@@ -15,4 +15,4 @@ Installation
 1.  Clone this repository
 2.  Run npm install
 3.  Run npm test - To test if everything is ok. Should return "passed".
-4.  Open the documentation/index.html on your browser for more information.
+4.  Open documentation/index.html for more information.
