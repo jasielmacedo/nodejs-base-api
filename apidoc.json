@@ -1,0 +1,7 @@
+{
+    "name": "Base API",
+    "version": "1.0.0",
+    "description": "Base Api to start API development.",
+    "title": "Base API NodeJs",
+    "url" : "http://127.0.0.1:8044/v1"
+  }

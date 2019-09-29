@@ -55,7 +55,18 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
+#.env
 
 # next.js build output
 .next
+
+.history/
+
+*.jpg
+*.png
+*.gif
+*.psd
+*.pdf
+*.zip
+*.doc
+*.docx
