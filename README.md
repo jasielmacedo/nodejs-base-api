@@ -8,15 +8,16 @@ Dependencies
 	NodeJs 8.x or Later
 	MongoDB
 
-Dependencies
+Key Features
 ------------
 
-	Mongo Connection
-	User C.R.U.D
-	JWT Integration
-	ACL Ready
-	Angular,React and Vue ready
-	Compatible with NGX Admin
+	1. Mongo Connection
+	2. Login / Logout
+	3. User (Create/Read/Update/Delete) ready
+	4. JWT Integration
+	5. ACL
+	6. Angular,React and Vue ready
+	7. Compatible with Ngx Admin 
 
 Installation
 ------------
